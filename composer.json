@@ -1,0 +1,17 @@
+{
+  "name": "Shortlinks",
+  "authors": [
+    {
+      "name": "Shortlinks",
+      "email": "sbog.lysenkoo@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "app\\": "application"
+    }
+  },
+  "require": {
+    "gabordemooij/redbean": "dev-master"
+  }
+}

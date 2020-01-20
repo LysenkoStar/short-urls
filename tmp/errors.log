@@ -1,0 +1,482 @@
+[2020-01-17 14:39:21] Error message: dsadsadas | File:  /home/bogdan/MyProjects/urlparse.loc/public/index.php | Line: 10 
+===============================
+[2020-01-17 14:39:56] Error message: dsadsadas | File:  /home/bogdan/MyProjects/urlparse.loc/public/index.php | Line: 10 
+===============================
+[2020-01-17 14:40:22] Error message: dsadsadas | File:  /home/bogdan/MyProjects/urlparse.loc/public/index.php | Line: 10 
+===============================
+[2020-01-17 14:41:09] Error message: dsadsadas | File:  /home/bogdan/MyProjects/urlparse.loc/public/index.php | Line: 10 
+===============================
+[2020-01-17 14:41:15] Error message: dsadsadas | File:  /home/bogdan/MyProjects/urlparse.loc/public/index.php | Line: 10 
+===============================
+[2020-01-17 14:41:25] Error message: dsadsadas | File:  /home/bogdan/MyProjects/urlparse.loc/public/index.php | Line: 10 
+===============================
+[2020-01-17 14:41:31] Error message: dsadsadas | File:  /home/bogdan/MyProjects/urlparse.loc/public/index.php | Line: 10 
+===============================
+[2020-01-17 14:51:01] Error message: dsadsadas | File:  /home/bogdan/MyProjects/urlparse.loc/public/index.php | Line: 10 
+===============================
+[2020-01-17 14:53:45] Error message: dsadsadas | File:  /home/bogdan/MyProjects/urlparse.loc/public/index.php | Line: 10 
+===============================
+[2020-01-17 14:55:06] Error message: dsadsadas | File:  /home/bogdan/MyProjects/urlparse.loc/public/index.php | Line: 10 
+===============================
+[2020-01-17 15:50:51] Error message: Controller application\controller\HelloController not found | File:  /home/bogdan/MyProjects/urlparse.loc/application/core/Router.php | Line: 46 
+===============================
+[2020-01-17 15:50:59] Error message: Controller application\controller\MainController not found | File:  /home/bogdan/MyProjects/urlparse.loc/application/core/Router.php | Line: 46 
+===============================
+[2020-01-17 15:50:59] Error message: Controller application\controller\MainController not found | File:  /home/bogdan/MyProjects/urlparse.loc/application/core/Router.php | Line: 46 
+===============================
+[2020-01-17 15:51:55] Error message: Controller application\controller\MainController not found | File:  /home/bogdan/MyProjects/urlparse.loc/application/core/Router.php | Line: 46 
+===============================
+[2020-01-17 15:51:56] Error message: Controller application\controller\MainController not found | File:  /home/bogdan/MyProjects/urlparse.loc/application/core/Router.php | Line: 46 
+===============================
+[2020-01-17 15:58:51] Error message: Controller application\controller\MainController not found | File:  /home/bogdan/MyProjects/urlparse.loc/application/core/Router.php | Line: 46 
+===============================
+[2020-01-17 15:58:52] Error message: Controller application\controller\MainController not found | File:  /home/bogdan/MyProjects/urlparse.loc/application/core/Router.php | Line: 46 
+===============================
+[2020-01-17 15:58:54] Error message: Controller application\controller\MainController not found | File:  /home/bogdan/MyProjects/urlparse.loc/application/core/Router.php | Line: 46 
+===============================
+[2020-01-17 15:58:54] Error message: Page not found | File:  /home/bogdan/MyProjects/urlparse.loc/application/core/Router.php | Line: 49 
+===============================
+[2020-01-17 15:58:58] Error message: Controller application\controller\PageController not found | File:  /home/bogdan/MyProjects/urlparse.loc/application/core/Router.php | Line: 46 
+===============================
+[2020-01-17 15:59:18] Error message: Controller application\controller\PageController.php not found | File:  /home/bogdan/MyProjects/urlparse.loc/application/core/Router.php | Line: 46 
+===============================
+[2020-01-17 15:59:25] Error message: Controller application\controller\MainController.php not found | File:  /home/bogdan/MyProjects/urlparse.loc/application/core/Router.php | Line: 46 
+===============================
+[2020-01-17 15:59:25] Error message: Controller application\controller\MainController.php not found | File:  /home/bogdan/MyProjects/urlparse.loc/application/core/Router.php | Line: 46 
+===============================
+[2020-01-17 16:01:11] Error message: Controller application\controller\MainController not found | File:  /home/bogdan/MyProjects/urlparse.loc/application/core/Router.php | Line: 46 
+===============================
+[2020-01-17 16:01:11] Error message: Controller application\controller\MainController not found | File:  /home/bogdan/MyProjects/urlparse.loc/application/core/Router.php | Line: 46 
+===============================
+[2020-01-17 16:01:12] Error message: Controller application\controller\MainController not found | File:  /home/bogdan/MyProjects/urlparse.loc/application/core/Router.php | Line: 46 
+===============================
+[2020-01-17 16:01:13] Error message: Controller application\controller\MainController not found | File:  /home/bogdan/MyProjects/urlparse.loc/application/core/Router.php | Line: 46 
+===============================
+[2020-01-17 16:02:30] Error message: Controller application\controller\MainController not found | File:  /home/bogdan/MyProjects/urlparse.loc/application/core/Router.php | Line: 47 
+===============================
+[2020-01-17 16:02:37] Error message: Controller application\controller\MainController not found | File:  /home/bogdan/MyProjects/urlparse.loc/application/core/Router.php | Line: 47 
+===============================
+[2020-01-17 16:02:38] Error message: Controller application\controller\MainController not found | File:  /home/bogdan/MyProjects/urlparse.loc/application/core/Router.php | Line: 47 
+===============================
+[2020-01-17 16:02:39] Error message: Controller application\controller\MainController not found | File:  /home/bogdan/MyProjects/urlparse.loc/application/core/Router.php | Line: 47 
+===============================
+[2020-01-17 16:08:32] Error message: Controller application/controller/MainController not found | File:  /home/bogdan/MyProjects/urlparse.loc/application/core/Router.php | Line: 47 
+===============================
+[2020-01-17 16:08:47] Error message: Controller application/controller//MainController not found | File:  /home/bogdan/MyProjects/urlparse.loc/application/core/Router.php | Line: 47 
+===============================
+[2020-01-17 16:09:12] Error message: Controller application\controller\MainController not found | File:  /home/bogdan/MyProjects/urlparse.loc/application/core/Router.php | Line: 47 
+===============================
+[2020-01-17 16:09:35] Error message: Controller 1 application\controller\MainController not found | File:  /home/bogdan/MyProjects/urlparse.loc/application/core/Router.php | Line: 47 
+===============================
+[2020-01-17 16:10:43] Error message: Controller application\controller\MainController not found | File:  /home/bogdan/MyProjects/urlparse.loc/application/core/Router.php | Line: 47 
+===============================
+[2020-01-17 16:18:08] Error message: Controller app\controller\DsadsaController not found | File:  /home/bogdan/MyProjects/urlparse.loc/application/core/Router.php | Line: 47 
+===============================
+[2020-01-17 17:18:54] Error message: Controller app\controller\PageController not found | File:  /home/bogdan/MyProjects/urlparse.loc/application/core/Router.php | Line: 50 
+===============================
+[2020-01-17 17:19:01] Error message: Controller app\controller\PageController not found | File:  /home/bogdan/MyProjects/urlparse.loc/application/core/Router.php | Line: 50 
+===============================
+[2020-01-17 17:33:04] Error message: Controller app\controller\PageController not found | File:  /home/bogdan/MyProjects/urlparse.loc/application/core/Router.php | Line: 51 
+===============================
+[2020-01-17 17:33:04] Error message: Page not found | File:  /home/bogdan/MyProjects/urlparse.loc/application/core/Router.php | Line: 54 
+===============================
+[2020-01-17 17:33:07] Error message: Controller app\controller\PageController not found | File:  /home/bogdan/MyProjects/urlparse.loc/application/core/Router.php | Line: 51 
+===============================
+[2020-01-18 15:46:01] Error message: Class 'R' not found | File:  /home/bogdan/Projects/urlparse.loc/application/controller/MainController.php | Line: 12 
+===============================
+[2020-01-18 16:00:40] Error message: Database connection not established | File:  /home/bogdan/Projects/urlparse.loc/application/core/Database.php | Line: 18 
+===============================
+[2020-01-18 17:30:39] Error message: Controller app\controller\AdminController not found | File:  /home/bogdan/Projects/urlparse.loc/application/core/Router.php | Line: 51 
+===============================
+[2020-01-18 17:32:32] Error message: Controller app\controller\AdminController not found | File:  /home/bogdan/Projects/urlparse.loc/application/core/Router.php | Line: 51 
+===============================
+[2020-01-19 13:30:19] Error message: Controller app\controller\AdminController not found | File:  /home/bogdan/Projects/urlparse.loc/application/core/Router.php | Line: 51 
+===============================
+[2020-01-19 13:30:19] Error message: Page not found | File:  /home/bogdan/Projects/urlparse.loc/application/core/Router.php | Line: 54 
+===============================
+[2020-01-19 13:30:26] Error message: Controller app\controller\AdminController not found | File:  /home/bogdan/Projects/urlparse.loc/application/core/Router.php | Line: 51 
+===============================
+[2020-01-19 13:30:26] Error message: Page not found | File:  /home/bogdan/Projects/urlparse.loc/application/core/Router.php | Line: 54 
+===============================
+[2020-01-19 13:30:51] Error message: Controller app\controller\AdminController not found | File:  /home/bogdan/Projects/urlparse.loc/application/core/Router.php | Line: 51 
+===============================
+[2020-01-19 13:36:03] Error message: Controller app\controller\\MainController not found | File:  /home/bogdan/Projects/urlparse.loc/application/core/Router.php | Line: 50 
+===============================
+[2020-01-19 13:40:53] Error message: View not found for this page. | File:  /home/bogdan/Projects/urlparse.loc/application/core/base/View.php | Line: 46 
+===============================
+[2020-01-19 13:41:55] Error message: View not found for this page. | File:  /home/bogdan/Projects/urlparse.loc/application/core/base/View.php | Line: 46 
+===============================
+[2020-01-19 13:43:47] Error message: View not found for this page. | File:  /home/bogdan/Projects/urlparse.loc/application/core/base/View.php | Line: 46 
+===============================
+[2020-01-19 13:53:41] Error message: View not found for this page. | File:  /home/bogdan/Projects/urlparse.loc/application/core/base/View.php | Line: 46 
+===============================
+[2020-01-19 13:53:41] Error message: Page not found | File:  /home/bogdan/Projects/urlparse.loc/application/core/Router.php | Line: 52 
+===============================
+[2020-01-19 13:53:41] Error message: View not found for this page. | File:  /home/bogdan/Projects/urlparse.loc/application/core/base/View.php | Line: 46 
+===============================
+[2020-01-19 13:56:17] Error message: Controller app\controller\admin/MainController not found | File:  /home/bogdan/Projects/urlparse.loc/application/core/Router.php | Line: 49 
+===============================
+[2020-01-19 13:56:40] Error message: View not found for this page. | File:  /home/bogdan/Projects/urlparse.loc/application/core/base/View.php | Line: 45 
+===============================
+[2020-01-19 13:57:31] Error message: View not found for this page. | File:  /home/bogdan/Projects/urlparse.loc/application/core/base/View.php | Line: 45 
+===============================
+[2020-01-19 13:57:32] Error message: View not found for this page. | File:  /home/bogdan/Projects/urlparse.loc/application/core/base/View.php | Line: 45 
+===============================
+[2020-01-19 13:57:33] Error message: View not found for this page. | File:  /home/bogdan/Projects/urlparse.loc/application/core/base/View.php | Line: 45 
+===============================
+[2020-01-19 14:06:40] Error message: View not found for this page. | File:  /home/bogdan/Projects/urlparse.loc/application/core/base/View.php | Line: 45 
+===============================
+[2020-01-19 14:06:41] Error message: View not found for this page. | File:  /home/bogdan/Projects/urlparse.loc/application/core/base/View.php | Line: 45 
+===============================
+[2020-01-19 14:06:42] Error message: View not found for this page. | File:  /home/bogdan/Projects/urlparse.loc/application/core/base/View.php | Line: 45 
+===============================
+[2020-01-19 14:06:42] Error message: View not found for this page. | File:  /home/bogdan/Projects/urlparse.loc/application/core/base/View.php | Line: 45 
+===============================
+[2020-01-19 14:15:11] Error message: Controller app\controller\admin/MainController not found | File:  /home/bogdan/Projects/urlparse.loc/application/core/Router.php | Line: 49 
+===============================
+[2020-01-19 14:16:03] Error message: Controller app/controller/admin/MainController not found | File:  /home/bogdan/Projects/urlparse.loc/application/core/Router.php | Line: 49 
+===============================
+[2020-01-19 14:16:04] Error message: Controller app/controller/admin/MainController not found | File:  /home/bogdan/Projects/urlparse.loc/application/core/Router.php | Line: 49 
+===============================
+[2020-01-19 14:16:04] Error message: Controller app/controller/admin/MainController not found | File:  /home/bogdan/Projects/urlparse.loc/application/core/Router.php | Line: 49 
+===============================
+[2020-01-19 14:16:05] Error message: Controller app/controller/admin/MainController not found | File:  /home/bogdan/Projects/urlparse.loc/application/core/Router.php | Line: 49 
+===============================
+[2020-01-19 14:16:35] Error message: Controller application/controller/admin/MainController not found | File:  /home/bogdan/Projects/urlparse.loc/application/core/Router.php | Line: 49 
+===============================
+[2020-01-19 14:17:44] Error message: View not found for this page. | File:  /home/bogdan/Projects/urlparse.loc/application/core/base/View.php | Line: 45 
+===============================
+[2020-01-19 14:17:47] Error message: View not found for this page. | File:  /home/bogdan/Projects/urlparse.loc/application/core/base/View.php | Line: 45 
+===============================
+[2020-01-19 14:17:48] Error message: View not found for this page. | File:  /home/bogdan/Projects/urlparse.loc/application/core/base/View.php | Line: 45 
+===============================
+[2020-01-19 14:19:34] Error message: View not found for this page. | File:  /home/bogdan/Projects/urlparse.loc/application/core/base/View.php | Line: 45 
+===============================
+[2020-01-19 14:22:44] Error message: Controller app\controller\admin/MainController not found | File:  /home/bogdan/Projects/urlparse.loc/application/core/Router.php | Line: 49 
+===============================
+[2020-01-19 14:23:52] Error message: Controller /home/bogdan/Projects/urlparse.loc/applicationcontroller/admin/MainController not found | File:  /home/bogdan/Projects/urlparse.loc/application/core/Router.php | Line: 49 
+===============================
+[2020-01-19 14:24:07] Error message: Controller /home/bogdan/Projects/urlparse.loc/application/controller/admin/MainController not found | File:  /home/bogdan/Projects/urlparse.loc/application/core/Router.php | Line: 49 
+===============================
+[2020-01-19 14:24:39] Error message: Controller /home/bogdan/Projects/urlparse.loc/app/controller/admin/MainController not found | File:  /home/bogdan/Projects/urlparse.loc/application/core/Router.php | Line: 49 
+===============================
+[2020-01-19 14:25:27] Error message: Controller /home/bogdan/Projects/urlparse.loc/app/controller/admin/MainController.php not found | File:  /home/bogdan/Projects/urlparse.loc/application/core/Router.php | Line: 49 
+===============================
+[2020-01-19 14:26:57] Error message: View not found for this page. | File:  /home/bogdan/Projects/urlparse.loc/application/core/base/View.php | Line: 44 
+===============================
+[2020-01-19 14:31:22] Error message: Controller app\controller\DssaaController not found | File:  /home/bogdan/Projects/urlparse.loc/application/core/Router.php | Line: 49 
+===============================
+[2020-01-19 14:31:39] Error message: Controller app\controller\PageController not found | File:  /home/bogdan/Projects/urlparse.loc/application/core/Router.php | Line: 49 
+===============================
+[2020-01-19 14:32:09] Error message: Method app\controller\PageController::indexAction not found | File:  /home/bogdan/Projects/urlparse.loc/application/core/Router.php | Line: 46 
+===============================
+[2020-01-19 14:32:27] Error message: View not found for this page. | File:  /home/bogdan/Projects/urlparse.loc/application/core/base/View.php | Line: 44 
+===============================
+[2020-01-19 14:41:05] Error message: View not found for this page. | File:  /home/bogdan/Projects/urlparse.loc/application/core/base/View.php | Line: 44 
+===============================
+[2020-01-19 14:44:31] Error message: View not found for this page. | File:  /home/bogdan/Projects/urlparse.loc/application/core/base/View.php | Line: 44 
+===============================
+[2020-01-19 14:44:32] Error message: View not found for this page. | File:  /home/bogdan/Projects/urlparse.loc/application/core/base/View.php | Line: 44 
+===============================
+[2020-01-19 14:44:33] Error message: View not found for this page. | File:  /home/bogdan/Projects/urlparse.loc/application/core/base/View.php | Line: 44 
+===============================
+[2020-01-19 14:44:33] Error message: View not found for this page. | File:  /home/bogdan/Projects/urlparse.loc/application/core/base/View.php | Line: 44 
+===============================
+[2020-01-19 14:45:14] Error message: View not found for this page. | File:  /home/bogdan/Projects/urlparse.loc/application/core/base/View.php | Line: 44 
+===============================
+[2020-01-19 14:45:16] Error message: View not found for this page. | File:  /home/bogdan/Projects/urlparse.loc/application/core/base/View.php | Line: 44 
+===============================
+[2020-01-19 14:45:22] Error message: View not found for this page. | File:  /home/bogdan/Projects/urlparse.loc/application/core/base/View.php | Line: 44 
+===============================
+[2020-01-19 14:45:23] Error message: View not found for this page. | File:  /home/bogdan/Projects/urlparse.loc/application/core/base/View.php | Line: 44 
+===============================
+[2020-01-19 14:45:57] Error message: Controller app\controller\AdController not found | File:  /home/bogdan/Projects/urlparse.loc/application/core/Router.php | Line: 49 
+===============================
+[2020-01-19 14:46:01] Error message: View not found for this page. | File:  /home/bogdan/Projects/urlparse.loc/application/core/base/View.php | Line: 45 
+===============================
+[2020-01-19 14:48:54] Error message: View not found for this page. | File:  /home/bogdan/Projects/urlparse.loc/application/core/base/View.php | Line: 45 
+===============================
+[2020-01-19 14:49:07] Error message: View not found for this page. | File:  /home/bogdan/Projects/urlparse.loc/application/core/base/View.php | Line: 46 
+===============================
+[2020-01-19 14:49:30] Error message: Controller app\controller\admin/MainController not found | File:  /home/bogdan/Projects/urlparse.loc/application/core/Router.php | Line: 49 
+===============================
+[2020-01-19 14:52:30] Error message: View not found for this page. | File:  /home/bogdan/Projects/urlparse.loc/application/core/base/View.php | Line: 46 
+===============================
+[2020-01-19 14:52:31] Error message: View not found for this page. | File:  /home/bogdan/Projects/urlparse.loc/application/core/base/View.php | Line: 46 
+===============================
+[2020-01-19 14:55:28] Error message: View not found for this page. | File:  /home/bogdan/Projects/urlparse.loc/application/core/base/View.php | Line: 46 
+===============================
+[2020-01-19 15:43:42] Error message: Method app\controller\admin\UserController::loginAdminAction not found | File:  /home/bogdan/Projects/urlparse.loc/application/core/Router.php | Line: 46 
+===============================
+[2020-01-19 15:46:56] Error message: View not found for this page. | File:  /home/bogdan/Projects/urlparse.loc/application/core/base/View.php | Line: 45 
+===============================
+[2020-01-19 15:55:45] Error message: Page not found | File:  /home/bogdan/Projects/urlparse.loc/application/core/Router.php | Line: 52 
+===============================
+[2020-01-19 15:56:19] Error message: Page not found | File:  /home/bogdan/Projects/urlparse.loc/application/core/Router.php | Line: 52 
+===============================
+[2020-01-19 15:57:17] Error message: Page not found | File:  /home/bogdan/Projects/urlparse.loc/application/core/Router.php | Line: 52 
+===============================
+[2020-01-19 16:16:58] Error message: Controller app\controller\UserController not found | File:  /home/bogdan/Projects/urlparse.loc/application/core/Router.php | Line: 49 
+===============================
+[2020-01-19 16:17:38] Error message: Controller app\controller\UserController not found | File:  /home/bogdan/Projects/urlparse.loc/application/core/Router.php | Line: 49 
+===============================
+[2020-01-19 16:17:50] Error message: Controller app\controller\UserController not found | File:  /home/bogdan/Projects/urlparse.loc/application/core/Router.php | Line: 49 
+===============================
+[2020-01-19 16:20:17] Error message: Page not found | File:  /home/bogdan/Projects/urlparse.loc/application/core/Router.php | Line: 52 
+===============================
+[2020-01-19 16:23:18] Error message: Page not found | File:  /home/bogdan/Projects/urlparse.loc/application/core/Router.php | Line: 52 
+===============================
+[2020-01-19 16:24:49] Error message: Page not found | File:  /home/bogdan/Projects/urlparse.loc/application/core/Router.php | Line: 52 
+===============================
+[2020-01-19 16:31:09] Error message: Class 'R' not found | File:  /home/bogdan/Projects/urlparse.loc/application/model/User.php | Line: 34 
+===============================
+[2020-01-19 17:00:08] Error message: Page not found | File:  /home/bogdan/Projects/urlparse.loc/application/core/Router.php | Line: 52 
+===============================
+[2020-01-19 21:18:36] Error message: Controller app\controller\GenerateController not found | File:  /home/bogdan/Projects/urlparse.loc/application/core/Router.php | Line: 49 
+===============================
+[2020-01-19 21:22:40] Error message: View not found for this page. | File:  /home/bogdan/Projects/urlparse.loc/application/core/base/View.php | Line: 45 
+===============================
+[2020-01-19 21:22:41] Error message: View not found for this page. | File:  /home/bogdan/Projects/urlparse.loc/application/core/base/View.php | Line: 45 
+===============================
+[2020-01-19 21:26:15] Error message: View not found for this page. | File:  /home/bogdan/Projects/urlparse.loc/application/core/base/View.php | Line: 45 
+===============================
+[2020-01-19 21:26:15] Error message: View not found for this page. | File:  /home/bogdan/Projects/urlparse.loc/application/core/base/View.php | Line: 45 
+===============================
+[2020-01-19 21:26:16] Error message: View not found for this page. | File:  /home/bogdan/Projects/urlparse.loc/application/core/base/View.php | Line: 45 
+===============================
+[2020-01-19 21:26:36] Error message: View not found for this page. | File:  /home/bogdan/Projects/urlparse.loc/application/core/base/View.php | Line: 45 
+===============================
+[2020-01-19 21:26:37] Error message: View not found for this page. | File:  /home/bogdan/Projects/urlparse.loc/application/core/base/View.php | Line: 45 
+===============================
+[2020-01-19 21:26:42] Error message: View not found for this page. | File:  /home/bogdan/Projects/urlparse.loc/application/core/base/View.php | Line: 45 
+===============================
+[2020-01-19 21:26:43] Error message: View not found for this page. | File:  /home/bogdan/Projects/urlparse.loc/application/core/base/View.php | Line: 45 
+===============================
+[2020-01-19 21:26:43] Error message: View not found for this page. | File:  /home/bogdan/Projects/urlparse.loc/application/core/base/View.php | Line: 45 
+===============================
+[2020-01-19 21:26:44] Error message: View not found for this page. | File:  /home/bogdan/Projects/urlparse.loc/application/core/base/View.php | Line: 45 
+===============================
+[2020-01-19 21:26:44] Error message: View not found for this page. | File:  /home/bogdan/Projects/urlparse.loc/application/core/base/View.php | Line: 45 
+===============================
+[2020-01-19 21:26:46] Error message: View not found for this page. | File:  /home/bogdan/Projects/urlparse.loc/application/core/base/View.php | Line: 45 
+===============================
+[2020-01-19 21:55:37] Error message: Page not found | File:  /home/bogdan/Projects/urlparse.loc/application/core/Router.php | Line: 52 
+===============================
+[2020-01-19 22:10:14] Error message: Method app\controller\GenerateController::indexAction not found | File:  /home/bogdan/Projects/urlparse.loc/application/core/Router.php | Line: 46 
+===============================
+[2020-01-19 22:10:33] Error message: Call to undefined method app\controller\GenerateController::isAjax() | File:  /home/bogdan/Projects/urlparse.loc/application/controller/GenerateController.php | Line: 12 
+===============================
+[2020-01-19 22:10:48] Error message: View not found for this page. | File:  /home/bogdan/Projects/urlparse.loc/application/core/base/View.php | Line: 45 
+===============================
+[2020-01-19 22:11:03] Error message: View not found for this page. | File:  /home/bogdan/Projects/urlparse.loc/application/core/base/View.php | Line: 45 
+===============================
+[2020-01-19 22:11:04] Error message: View not found for this page. | File:  /home/bogdan/Projects/urlparse.loc/application/core/base/View.php | Line: 45 
+===============================
+[2020-01-19 22:12:40] Error message: View not found for this page. | File:  /home/bogdan/Projects/urlparse.loc/application/core/base/View.php | Line: 45 
+===============================
+[2020-01-19 22:12:41] Error message: View not found for this page. | File:  /home/bogdan/Projects/urlparse.loc/application/core/base/View.php | Line: 45 
+===============================
+[2020-01-19 22:12:42] Error message: View not found for this page. | File:  /home/bogdan/Projects/urlparse.loc/application/core/base/View.php | Line: 45 
+===============================
+[2020-01-19 22:12:42] Error message: View not found for this page. | File:  /home/bogdan/Projects/urlparse.loc/application/core/base/View.php | Line: 45 
+===============================
+[2020-01-19 22:12:43] Error message: View not found for this page. | File:  /home/bogdan/Projects/urlparse.loc/application/core/base/View.php | Line: 45 
+===============================
+[2020-01-19 22:12:53] Error message: View not found for this page. | File:  /home/bogdan/Projects/urlparse.loc/application/core/base/View.php | Line: 45 
+===============================
+[2020-01-19 22:12:54] Error message: View not found for this page. | File:  /home/bogdan/Projects/urlparse.loc/application/core/base/View.php | Line: 45 
+===============================
+[2020-01-19 22:14:35] Error message: View not found for this page. | File:  /home/bogdan/Projects/urlparse.loc/application/core/base/View.php | Line: 45 
+===============================
+[2020-01-19 22:14:56] Error message: View not found for this page. | File:  /home/bogdan/Projects/urlparse.loc/application/core/base/View.php | Line: 45 
+===============================
+[2020-01-19 22:14:56] Error message: View not found for this page. | File:  /home/bogdan/Projects/urlparse.loc/application/core/base/View.php | Line: 45 
+===============================
+[2020-01-19 22:14:57] Error message: View not found for this page. | File:  /home/bogdan/Projects/urlparse.loc/application/core/base/View.php | Line: 45 
+===============================
+[2020-01-19 22:14:57] Error message: View not found for this page. | File:  /home/bogdan/Projects/urlparse.loc/application/core/base/View.php | Line: 45 
+===============================
+[2020-01-19 22:14:57] Error message: View not found for this page. | File:  /home/bogdan/Projects/urlparse.loc/application/core/base/View.php | Line: 45 
+===============================
+[2020-01-19 22:14:57] Error message: View not found for this page. | File:  /home/bogdan/Projects/urlparse.loc/application/core/base/View.php | Line: 45 
+===============================
+[2020-01-19 22:45:53] Error message: View not found for this page. | File:  /home/bogdan/Projects/urlparse.loc/application/core/base/View.php | Line: 45 
+===============================
+[2020-01-19 22:45:54] Error message: View not found for this page. | File:  /home/bogdan/Projects/urlparse.loc/application/core/base/View.php | Line: 45 
+===============================
+[2020-01-19 22:45:55] Error message: View not found for this page. | File:  /home/bogdan/Projects/urlparse.loc/application/core/base/View.php | Line: 45 
+===============================
+[2020-01-19 22:45:56] Error message: View not found for this page. | File:  /home/bogdan/Projects/urlparse.loc/application/core/base/View.php | Line: 45 
+===============================
+[2020-01-19 22:47:44] Error message: Page not found | File:  /home/bogdan/Projects/urlparse.loc/application/core/Router.php | Line: 53 
+===============================
+[2020-01-19 22:48:54] Error message: Page not found | File:  /home/bogdan/Projects/urlparse.loc/application/core/Router.php | Line: 53 
+===============================
+[2020-01-19 22:50:24] Error message: Page not found | File:  /home/bogdan/Projects/urlparse.loc/application/core/Router.php | Line: 53 
+===============================
+[2020-01-19 22:50:35] Error message: Page not found | File:  /home/bogdan/Projects/urlparse.loc/application/core/Router.php | Line: 53 
+===============================
+[2020-01-19 22:50:42] Error message: Page not found | File:  /home/bogdan/Projects/urlparse.loc/application/core/Router.php | Line: 53 
+===============================
+[2020-01-19 22:51:45] Error message: Page not found | File:  /home/bogdan/Projects/urlparse.loc/application/core/Router.php | Line: 53 
+===============================
+[2020-01-19 22:51:47] Error message: View not found for this page. | File:  /home/bogdan/Projects/urlparse.loc/application/core/base/View.php | Line: 45 
+===============================
+[2020-01-19 22:52:32] Error message: View not found for this page. | File:  /home/bogdan/Projects/urlparse.loc/application/core/base/View.php | Line: 45 
+===============================
+[2020-01-19 22:53:04] Error message: Page not found | File:  /home/bogdan/Projects/urlparse.loc/application/core/Router.php | Line: 53 
+===============================
+[2020-01-19 22:53:17] Error message: View not found for this page. | File:  /home/bogdan/Projects/urlparse.loc/application/core/base/View.php | Line: 45 
+===============================
+[2020-01-19 23:02:48] Error message: View not found for this page. | File:  /home/bogdan/Projects/urlparse.loc/application/core/base/View.php | Line: 45 
+===============================
+[2020-01-19 23:03:25] Error message: View not found for this page. | File:  /home/bogdan/Projects/urlparse.loc/application/core/base/View.php | Line: 45 
+===============================
+[2020-01-19 23:03:29] Error message: View not found for this page. | File:  /home/bogdan/Projects/urlparse.loc/application/core/base/View.php | Line: 45 
+===============================
+[2020-01-20 11:43:15] Error message: Database connection not established | File:  /home/bogdan/MyProjects/urlparse.loc/application/core/Database.php | Line: 18 
+===============================
+[2020-01-20 11:43:15] Error message: Database connection not established | File:  /home/bogdan/MyProjects/urlparse.loc/application/core/Database.php | Line: 18 
+===============================
+[2020-01-20 11:48:44] Error message: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'urls.modified' doesn't exist | File:  /home/bogdan/MyProjects/urlparse.loc/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Line: 194 
+===============================
+[2020-01-20 11:48:45] Error message: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'urls.modified' doesn't exist | File:  /home/bogdan/MyProjects/urlparse.loc/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Line: 194 
+===============================
+[2020-01-20 12:48:26] Error message: Too few arguments to function app\controller\GenerateController::__construct(), 1 passed in /home/bogdan/MyProjects/urlparse.loc/application/core/Router.php on line 39 and exactly 2 expected | File:  /home/bogdan/MyProjects/urlparse.loc/application/controller/GenerateController.php | Line: 13 
+===============================
+[2020-01-20 12:54:30] Error message: Too few arguments to function app\controller\GenerateController::indexAction(), 0 passed in /home/bogdan/MyProjects/urlparse.loc/application/core/Router.php on line 44 and exactly 1 expected | File:  /home/bogdan/MyProjects/urlparse.loc/application/controller/GenerateController.php | Line: 10 
+===============================
+[2020-01-20 12:54:45] Error message: Page not found | File:  /home/bogdan/MyProjects/urlparse.loc/application/core/Router.php | Line: 53 
+===============================
+[2020-01-20 12:54:49] Error message: Too few arguments to function app\controller\GenerateController::indexAction(), 0 passed in /home/bogdan/MyProjects/urlparse.loc/application/core/Router.php on line 44 and exactly 1 expected | File:  /home/bogdan/MyProjects/urlparse.loc/application/controller/GenerateController.php | Line: 10 
+===============================
+[2020-01-20 13:05:39] Error message: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'urls.urls' doesn't exist | File:  /home/bogdan/MyProjects/urlparse.loc/vendor/gabordemooij/redbean/RedBeanPHP/Driver/RPDO.php | Line: 194 
+===============================
+[2020-01-20 14:34:37] Error message: Controller app\controller\RewController not found | File:  /home/bogdan/MyProjects/urlparse.loc/application/core/Router.php | Line: 50 
+===============================
+[2020-01-20 14:35:18] Error message: View not found for this page. | File:  /home/bogdan/MyProjects/urlparse.loc/application/core/base/View.php | Line: 45 
+===============================
+[2020-01-20 14:36:24] Error message: Page not found | File:  /home/bogdan/MyProjects/urlparse.loc/application/core/Router.php | Line: 53 
+===============================
+[2020-01-20 14:41:17] Error message: Page not found | File:  /home/bogdan/MyProjects/urlparse.loc/application/core/Router.php | Line: 53 
+===============================
+[2020-01-20 15:20:10] Error message: Page not found | File:  /home/bogdan/MyProjects/urlparse.loc/application/core/Router.php | Line: 53 
+===============================
+[2020-01-20 15:34:49] Error message: Page not found | File:  /home/bogdan/MyProjects/urlparse.loc/application/core/Router.php | Line: 53 
+===============================
+[2020-01-20 15:42:02] Error message: Page not found | File:  /home/bogdan/MyProjects/urlparse.loc/application/core/Router.php | Line: 52 
+===============================
+[2020-01-20 15:46:51] Error message: Page not found | File:  /home/bogdan/MyProjects/urlparse.loc/application/core/Router.php | Line: 52 
+===============================
+[2020-01-20 15:46:52] Error message: Page not found | File:  /home/bogdan/MyProjects/urlparse.loc/application/core/Router.php | Line: 52 
+===============================
+[2020-01-20 15:46:53] Error message: Page not found | File:  /home/bogdan/MyProjects/urlparse.loc/application/core/Router.php | Line: 52 
+===============================
+[2020-01-20 15:46:53] Error message: Page not found | File:  /home/bogdan/MyProjects/urlparse.loc/application/core/Router.php | Line: 52 
+===============================
+[2020-01-20 15:48:03] Error message: Page not found | File:  /home/bogdan/MyProjects/urlparse.loc/application/core/Router.php | Line: 53 
+===============================
+[2020-01-20 15:55:06] Error message: Too few arguments to function app\controller\MainController::rewriteAction(), 0 passed in /home/bogdan/MyProjects/urlparse.loc/application/core/Router.php on line 43 and exactly 1 expected | File:  /home/bogdan/MyProjects/urlparse.loc/application/controller/MainController.php | Line: 25 
+===============================
+[2020-01-20 15:57:43] Error message: Page not found | File:  /home/bogdan/MyProjects/urlparse.loc/application/core/Router.php | Line: 52 
+===============================
+[2020-01-20 15:58:30] Error message: Too few arguments to function app\controller\MainController::rewriteAction(), 0 passed in /home/bogdan/MyProjects/urlparse.loc/application/core/Router.php on line 43 and exactly 1 expected | File:  /home/bogdan/MyProjects/urlparse.loc/application/controller/MainController.php | Line: 25 
+===============================
+[2020-01-20 15:59:11] Error message: Page not found | File:  /home/bogdan/MyProjects/urlparse.loc/application/core/Router.php | Line: 52 
+===============================
+[2020-01-20 15:59:16] Error message: Page not found | File:  /home/bogdan/MyProjects/urlparse.loc/application/core/Router.php | Line: 52 
+===============================
+[2020-01-20 16:01:03] Error message: Page not found | File:  /home/bogdan/MyProjects/urlparse.loc/application/core/Router.php | Line: 52 
+===============================
+[2020-01-20 16:01:09] Error message: Page not found | File:  /home/bogdan/MyProjects/urlparse.loc/application/core/Router.php | Line: 52 
+===============================
+[2020-01-20 16:10:01] Error message: Access to undeclared static property: app\controller\MainController::$table | File:  /home/bogdan/MyProjects/urlparse.loc/application/controller/MainController.php | Line: 33 
+===============================
+[2020-01-20 16:12:24] Error message: View not found for this page. | File:  /home/bogdan/MyProjects/urlparse.loc/application/core/base/View.php | Line: 45 
+===============================
+[2020-01-20 16:23:59] Error message: Page not found | File:  /home/bogdan/MyProjects/urlparse.loc/application/core/Router.php | Line: 52 
+===============================
+[2020-01-20 16:24:00] Error message: Page not found | File:  /home/bogdan/MyProjects/urlparse.loc/application/core/Router.php | Line: 52 
+===============================
+[2020-01-20 16:37:31] Error message: Page not found | File:  /home/bogdan/MyProjects/urlparse.loc/application/core/Router.php | Line: 52 
+===============================
+[2020-01-20 16:43:39] Error message: Page not found | File:  /home/bogdan/MyProjects/urlparse.loc/application/core/Router.php | Line: 52 
+===============================
+[2020-01-20 16:44:02] Error message: Page not found | File:  /home/bogdan/MyProjects/urlparse.loc/application/core/Router.php | Line: 52 
+===============================
+[2020-01-20 16:57:07] Error message: Page not found | File:  /home/bogdan/MyProjects/urlparse.loc/application/core/Router.php | Line: 52 
+===============================
+[2020-01-20 17:00:22] Error message: Page not found | File:  /home/bogdan/MyProjects/urlparse.loc/application/core/Router.php | Line: 52 
+===============================
+[2020-01-20 17:04:41] Error message: Page not found | File:  /home/bogdan/MyProjects/urlparse.loc/application/core/Router.php | Line: 52 
+===============================
+[2020-01-20 17:22:38] Error message: Call to a member function find() on null | File:  /home/bogdan/MyProjects/urlparse.loc/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Line: 955 
+===============================
+[2020-01-20 17:23:16] Error message: Call to a member function find() on null | File:  /home/bogdan/MyProjects/urlparse.loc/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Line: 955 
+===============================
+[2020-01-20 17:23:18] Error message: Call to a member function find() on null | File:  /home/bogdan/MyProjects/urlparse.loc/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Line: 955 
+===============================
+[2020-01-20 17:23:26] Error message: Call to a member function find() on null | File:  /home/bogdan/MyProjects/urlparse.loc/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Line: 955 
+===============================
+[2020-01-20 17:23:27] Error message: Call to a member function find() on null | File:  /home/bogdan/MyProjects/urlparse.loc/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Line: 955 
+===============================
+[2020-01-20 17:25:04] Error message: Call to a member function find() on null | File:  /home/bogdan/MyProjects/urlparse.loc/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Line: 955 
+===============================
+[2020-01-20 17:25:05] Error message: Call to a member function find() on null | File:  /home/bogdan/MyProjects/urlparse.loc/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Line: 955 
+===============================
+[2020-01-20 17:25:17] Error message: Call to a member function find() on null | File:  /home/bogdan/MyProjects/urlparse.loc/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Line: 955 
+===============================
+[2020-01-20 17:25:18] Error message: Call to a member function find() on null | File:  /home/bogdan/MyProjects/urlparse.loc/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Line: 955 
+===============================
+[2020-01-20 17:25:18] Error message: Call to a member function find() on null | File:  /home/bogdan/MyProjects/urlparse.loc/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Line: 955 
+===============================
+[2020-01-20 17:25:27] Error message: Call to a member function find() on null | File:  /home/bogdan/MyProjects/urlparse.loc/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Line: 941 
+===============================
+[2020-01-20 17:25:28] Error message: Call to a member function find() on null | File:  /home/bogdan/MyProjects/urlparse.loc/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Line: 941 
+===============================
+[2020-01-20 17:25:53] Error message: Call to a member function find() on null | File:  /home/bogdan/MyProjects/urlparse.loc/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Line: 941 
+===============================
+[2020-01-20 17:25:53] Error message: Call to a member function find() on null | File:  /home/bogdan/MyProjects/urlparse.loc/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Line: 941 
+===============================
+[2020-01-20 17:32:21] Error message: Call to a member function find() on null | File:  /home/bogdan/MyProjects/urlparse.loc/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Line: 941 
+===============================
+[2020-01-20 17:32:22] Error message: Call to a member function find() on null | File:  /home/bogdan/MyProjects/urlparse.loc/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Line: 941 
+===============================
+[2020-01-20 17:32:23] Error message: Call to a member function find() on null | File:  /home/bogdan/MyProjects/urlparse.loc/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Line: 941 
+===============================
+[2020-01-20 17:32:23] Error message: Call to a member function find() on null | File:  /home/bogdan/MyProjects/urlparse.loc/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Line: 941 
+===============================
+[2020-01-20 17:32:23] Error message: Call to a member function find() on null | File:  /home/bogdan/MyProjects/urlparse.loc/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Line: 941 
+===============================
+[2020-01-20 17:32:24] Error message: Call to a member function find() on null | File:  /home/bogdan/MyProjects/urlparse.loc/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Line: 941 
+===============================
+[2020-01-20 17:32:24] Error message: Call to a member function find() on null | File:  /home/bogdan/MyProjects/urlparse.loc/vendor/gabordemooij/redbean/RedBeanPHP/Facade.php | Line: 941 
+===============================
+[2020-01-20 17:48:43] Error message: Page not found | File:  /home/bogdan/MyProjects/urlparse.loc/application/core/Router.php | Line: 52 
+===============================
+[2020-01-20 17:49:11] Error message: Page not found | File:  /home/bogdan/MyProjects/urlparse.loc/application/core/Router.php | Line: 52 
+===============================
+[2020-01-20 17:49:27] Error message: Page not found | File:  /home/bogdan/MyProjects/urlparse.loc/application/core/Router.php | Line: 52 
+===============================
+[2020-01-20 17:49:53] Error message: Method app\controller\admin\MainController::removeAction not found | File:  /home/bogdan/MyProjects/urlparse.loc/application/core/Router.php | Line: 46 
+===============================
+[2020-01-20 17:50:11] Error message: View not found for this page. | File:  /home/bogdan/MyProjects/urlparse.loc/application/core/base/View.php | Line: 45 
+===============================
+[2020-01-20 17:56:07] Error message: Page not found | File:  /home/bogdan/MyProjects/urlparse.loc/application/core/Router.php | Line: 52 
+===============================
+[2020-01-20 17:56:11] Error message: Controller app\controller\admin\RemoveController not found | File:  /home/bogdan/MyProjects/urlparse.loc/application/core/Router.php | Line: 49 
+===============================
+[2020-01-20 18:04:54] Error message: Page not found | File:  /home/bogdan/MyProjects/urlparse.loc/application/core/Router.php | Line: 52 
+===============================
+[2020-01-20 18:10:32] Error message: Page not found | File:  /home/bogdan/MyProjects/urlparse.loc/application/core/Router.php | Line: 52 
+===============================
+[2020-01-20 18:15:09] Error message: Page not found | File:  /home/bogdan/MyProjects/urlparse.loc/application/core/Router.php | Line: 52 
+===============================
+[2020-01-20 18:15:12] Error message: Page not found | File:  /home/bogdan/MyProjects/urlparse.loc/application/core/Router.php | Line: 52 
+===============================
+[2020-01-20 18:15:27] Error message: Page not found | File:  /home/bogdan/MyProjects/urlparse.loc/application/core/Router.php | Line: 52 
+===============================
+[2020-01-20 18:16:49] Error message: Page not found | File:  /home/bogdan/MyProjects/urlparse.loc/application/core/Router.php | Line: 52 
+===============================
+[2020-01-20 18:39:07] Error message: Page not found | File:  /home/bogdan/MyProjects/urlparse.loc/application/core/Router.php | Line: 52 
+===============================
